@@ -1,0 +1,84 @@
+
+1. Títulos (Cabeçalhos)
+
+Use o símbolo # seguido de um espaço obrigatório. Quanto mais símbolos, menor o título (vai de 1 a 6).
+markdown
+# Título Principal (H1)
+## Título de Seção (H2)
+### Subtítulo (H3)
+#### Título Menor (H4)
+##### Título Muito Menor (H5)
+###### Título Mínimo (H6)
+Use o código com cuidado.
+
+2. Formatação de Texto
+
+Estilize palavras e frases envolvendo o texto com os símbolos abaixo (sem espaços entre o símbolo e a palavra).
+
+Efeito	Sintaxe Markdown	Resultado Visual
+Negrito	**Texto em negrito**	Texto em negrito
+Itálico	*Texto em itálico*	Texto em itálico
+Negrito e Itálico	***Texto formatado***	Texto formatado
+Tachado (Riscado)	~~Texto riscado~~	Texto riscado
+
+
+3. Listas e Organização
+
+Para criar listas organizadas por tópicos ou numéricas.
+
+Lista com Marcadores (Não ordenada)
+
+Use o hífen -, o asterisco * ou o sinal de mais + seguidos de espaço:
+markdown
+- Item A
+- Item B
+  - Subitem (Dê 4 espaços ou 1 Tab de recuo)
+Use o código com cuidado.
+
+Lista Numerada (Ordenada)
+
+Use números seguidos de ponto e espaço:
+markdown
+1. Primeiro item
+2. Segundo item
+3. Terceiro item
+Use o código com cuidado.
+
+4. Links e Imagens
+
+A estrutura é praticamente a mesma, mas as imagens começam com um ponto de exclamação (!).
+• Links: [Texto visível](https://link-do-site.com)
+• Imagens: ![Legenda da imagem](https://link-da-imagem.jpg)
+
+5. Blocos de Código (Programação e Comandos)
+
+Ideal para destacar comandos do terminal ou códigos de programação.
+
+Código na mesma linha (Inline)
+
+Envolva o comando com uma crase de cada lado:
+• Sintaxe: Use o comando \npm install` no terminal.`
+• Resultado: Use o comando npm install no terminal.
+
+Bloco de código (Várias linhas)
+
+Use três crases no início e no fim. Você pode digitar o nome da linguagem de programação logo após as primeiras crases para ativar o realce de cores:
+markdown
+```python
+def ola_mundo():
+    print("Olá, Mundo!")
+```
+Use o código com cuidado.
+
+6. Citações e Notas (Blockquotes)
+
+Use o símbolo de maior que (>) no início da linha para destacar blocos de texto ou frases de terceiros.
+markdown
+> "A simplicidade é o último grau de sofisticação." — Leonardo da Vinci
+Use o código com cuidado.
+
+7. Linha Horizontal (Divisória)
+
+Para criar uma linha fina e separar visualmente as seções do seu documento, digite três hífens em uma linha isolada:
+markdown
+---
