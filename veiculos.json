@@ -4,7 +4,7 @@
         "marca": "Bmw ",
         "modelo": "M4",
         "ano": 2023,
-        "placa": "ASD456D",
+        "placa": "ASD4D56",
         "id": 122055
     },
     {
@@ -12,7 +12,7 @@
         "marca": "Fiat ",
         "modelo": "Uno",
         "ano": 2005,
-        "placa": "ASD756S",
+        "placa": "ASD7S56",
         "id": 771134
     },
     {
@@ -20,7 +20,7 @@
         "marca": "Wolkswagen ",
         "modelo": "Fox",
         "ano": 2016,
-        "placa": "ASD654D",
+        "placa": "ASD6D54",
         "id": 340798
     },
     {
@@ -28,7 +28,31 @@
         "marca": "Wolkswagen ",
         "modelo": "Nivus",
         "ano": 2022,
-        "placa": "DAS461D",
+        "placa": "DAS4D61",
         "id": 435954
+    },
+    {
+        "responssavel": "Gabriel Mendes",
+        "marca": "Byd",
+        "modelo": "King",
+        "ano": 2025,
+        "placa": "ERS5D31",
+        "id": 515705
+    },
+    {
+        "responssavel": "Danilo Souza",
+        "marca": "Chevrolet",
+        "modelo": "Amarok",
+        "ano": 2015,
+        "placa": "JGD1D35",
+        "id": 923708
+    },
+    {
+        "responssavel": "Damião Cardoso",
+        "marca": "Fiat",
+        "modelo": "Strada",
+        "ano": 2018,
+        "placa": "GVD5S89",
+        "id": 675712
     }
 ]
